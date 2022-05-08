@@ -1,0 +1,15 @@
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/bin/Debug/net6.0/HelloCS
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/bin/Debug/net6.0/HelloCS.deps.json
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/bin/Debug/net6.0/HelloCS.runtimeconfig.json
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/bin/Debug/net6.0/HelloCS.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/bin/Debug/net6.0/HelloCS.pdb
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/obj/Debug/net6.0/HelloCS.csproj.AssemblyReference.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/obj/Debug/net6.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/obj/Debug/net6.0/HelloCS.AssemblyInfoInputs.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/obj/Debug/net6.0/HelloCS.AssemblyInfo.cs
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/obj/Debug/net6.0/HelloCS.csproj.CoreCompileInputs.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/obj/Debug/net6.0/HelloCS.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/obj/Debug/net6.0/refint/HelloCS.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/obj/Debug/net6.0/HelloCS.pdb
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/obj/Debug/net6.0/HelloCS.genruntimeconfig.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter01-vscode/HelloCS/obj/Debug/net6.0/ref/HelloCS.dll
