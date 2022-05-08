@@ -1,0 +1,15 @@
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.csproj.AssemblyReference.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.AssemblyInfoInputs.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.AssemblyInfo.cs
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.csproj.CoreCompileInputs.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/bin/Debug/net6.0/Vocabulary
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/bin/Debug/net6.0/Vocabulary.deps.json
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/bin/Debug/net6.0/Vocabulary.runtimeconfig.json
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/bin/Debug/net6.0/Vocabulary.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/bin/Debug/net6.0/Vocabulary.pdb
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/obj/Debug/net6.0/refint/Vocabulary.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.pdb
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.genruntimeconfig.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Vocabulary/obj/Debug/net6.0/ref/Vocabulary.dll
