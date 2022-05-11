@@ -1,0 +1,15 @@
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/bin/Debug/net6.0/Numbers
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.deps.json
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.runtimeconfig.json
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.pdb
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.csproj.AssemblyReference.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfoInputs.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfo.cs
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.csproj.CoreCompileInputs.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/obj/Debug/net6.0/refint/Numbers.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.pdb
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.genruntimeconfig.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Numbers/obj/Debug/net6.0/ref/Numbers.dll

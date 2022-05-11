@@ -1,0 +1,15 @@
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/bin/Debug/net6.0/Variables
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/bin/Debug/net6.0/Variables.deps.json
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/bin/Debug/net6.0/Variables.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/bin/Debug/net6.0/Variables.pdb
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/obj/Debug/net6.0/Variables.AssemblyInfoInputs.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/obj/Debug/net6.0/Variables.AssemblyInfo.cs
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/obj/Debug/net6.0/Variables.csproj.CoreCompileInputs.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/obj/Debug/net6.0/Variables.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/obj/Debug/net6.0/refint/Variables.dll
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/obj/Debug/net6.0/Variables.pdb
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/home/alexdevdavis/c-sharp-dot-net/code/Chapter02/Variables/obj/Debug/net6.0/ref/Variables.dll
